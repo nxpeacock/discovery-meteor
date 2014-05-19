@@ -5,7 +5,7 @@
 
 standard-app-packages
 bootstrap-3
-iron-router
 spin
 accounts-ui-bootstrap-3
 accounts-password
+iron-router
